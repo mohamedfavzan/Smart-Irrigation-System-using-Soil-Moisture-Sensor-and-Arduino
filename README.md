@@ -1,0 +1,2 @@
+# Smart-Irrigation-System-using-Soil-Moisture-Sensor-and-Arduino
+The system reads soil moisture levels through the hygrometer sensor. If the moisture level falls below a predefined threshold, the Arduino triggers the relay to start the pump, which waters the plant. Once the moisture level rises above the threshold, the pump automatically stops, conserving water and ensuring optimal moisture levels for the plant.
