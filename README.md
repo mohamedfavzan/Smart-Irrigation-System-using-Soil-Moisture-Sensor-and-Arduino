@@ -12,6 +12,8 @@ Apparatus Required:
 
 
 Procedure:
+
+
 1.Assemble the Circuit:
 - Connect the soil moisture sensor to one of the analog input pins of
 the Arduino Nano.
@@ -19,6 +21,8 @@ the Arduino Nano.
 - Connect the water pump to the relay and power it using a 9V battery.
 - Ensure proper connections between all components to avoid electrical
 issues.
+
+
 2.Programming the Arduino:
 - Upload a code that continuously reads moisture sensor data.
 - Set a threshold moisture value. If the soil moisture falls below this
